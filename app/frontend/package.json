@@ -11,7 +11,7 @@
     "@fnando/sparkline": "^0.3.10",
     "axios": "^1.7.8",
     "core-js": "^3.6.5",
-    "sass": "^1.27.0",
+    "sass": "^1.79.0",
     "sass-loader": "^10.0.4",
     "simple-keyboard": "^2.30.25",
     "vue": "^2.6.12",
