@@ -15,7 +15,7 @@
     "sass-loader": "^10.0.4",
     "simple-keyboard": "^2.30.25",
     "vue": "^2.6.12",
-    "vue-i18n": "^8.22.4",
+    "vue-i18n": "^9.14.5",
     "vue-router": "^3.4.3"
   },
   "devDependencies": {
